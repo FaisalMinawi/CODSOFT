@@ -5,7 +5,7 @@ import random
 chatbotresponses = {
     r"(hello|hi|hey).*": ["Hello! How can I assist you today?", "Hi there!", "Hey! What can I do for you?"],
     r"(how are you).*": ["I'm just a computer program, but I'm here to help!", "I'm doing well, thank you for asking!"],
-    r"(what is your name|who are you).*": ["I'm a chatbot created to assist you with information and tasks.", "I go by the name ChatGPT."],
+    r"(what is your name|who are you).*": ["I'm a chatbot created to assist you with information and tasks.", "I go by the name Chatbot."],
     r"(bye|goodbye).*": ["Goodbye! Have a great day!", "See you later!"],
     r"(help|what can you do).*": ["I can provide information on a wide range of topics. Try asking me something!", "I can answer questions and assist with tasks. Just let me know what you need."],
     r"(tell me a joke).*": ["Why don't scientists trust atoms? Because they make up everything!", "Sure, here's one: What did one ocean say to the other ocean? Nothing, they just waved."],
